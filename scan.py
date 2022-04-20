@@ -11,7 +11,7 @@ w = '\x1b[1;37m'
 n = '\x1b[0;00m'
 os.system('clear')
 print
-print y, 'code : by bcsetris7 | tools : scandir'
+print y, 'code : by dicoding ulang oleh : bcsetris7 | tools : scandir'
 print y, '________________________________'
 print w, '          Version: 2.9'
 print                                                                                         
